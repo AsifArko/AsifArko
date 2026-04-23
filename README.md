@@ -63,28 +63,28 @@
 ### Endorsements
 
 <sub>"Asif is a very skilled and experienced developer... strong in graph databases, Node, and React... Asif will be a good asset to any team."</sub>  
-<sub style="color: #57606a; font-size: 0.8em">— Md. Akimul Islam (Akash), Staff Software Engineer, Cefalo</sub>
+<sub><small><em>— Md. Akimul Islam (Akash), Staff Software Engineer, Cefalo</em></small></sub>
 
 <sub>"Asif has been developing our backend services in TypeScript and Node.js... his knowledge of graph, document, and SQL databases has been important."</sub>  
-<sub style="color: #57606a; font-size: 0.8em">— Marius Hagalid, Tech Lead / Utvikler, NTB</sub>
+<sub><small><em>— Marius Hagalid, Tech Lead / Utvikler, NTB</em></small></sub>
 
 <sub>"Asif has contributed with great enthusiasm and determination... reliable, proactive, and solution-oriented."</sub>  
-<sub style="color: #57606a; font-size: 0.8em">— Terje Alstad, Sportsdatasjef, NTB</sub>
+<sub><small><em>— Terje Alstad, Sportsdatasjef, NTB</em></small></sub>
 
 <sub>"Asif is a quick learner with hard working tendency. I have worked with him in some projects. He is very much proficient on his task. I would like to wish him a bright career."</sub>  
-<sub style="color: #57606a; font-size: 0.8em">— Sanjidul Hoque, Senior Software Engineer, Sibros</sub>
+<sub><small><em>— Sanjidul Hoque, Senior Software Engineer, Sibros</em></small></sub>
 
 <sub>"I worked with Asif on the same team during my time at KickbackApps. He was a very pleasant, learned mate to work with... a fantastic team player, and I saw him carrying out crucial roles on multiple projects. I wish to work with him in the future again."</sub>  
-<sub style="color: #57606a; font-size: 0.8em">— Shahin Mahmud, Senior Software Engineer | SRE, Kickbackapps</sub>
+<sub><small><em>— Shahin Mahmud, Senior Software Engineer | SRE, Kickbackapps</em></small></sub>
 
 <sub>"Asif is a great programmer. When he joined the company I was managing at that time, he came with good experience and quickly learned new codebases, then started making contributions to production. He's one of the bright individuals I worked with and I hope all the best for his journey."</sub>  
-<sub style="color: #57606a; font-size: 0.8em">— MD Ahad Hasan, Senior Software Engineer | Backend | DevOps | ML</sub>
+<sub><small><em>— MD Ahad Hasan, Senior Software Engineer | Backend | DevOps | ML</em></small></sub>
 
 <sub>"Asif Chowdhury was one of the most committed professionals at Shimahin Ltd... a fantastic person with exceptional skills! Energetic and broad-minded, detail-oriented team player. Through the years, we worked on various projects and I have always felt he was one of the most effective team mates I have had the privilege of working with."</sub>  
-<sub style="color: #57606a; font-size: 0.8em">— Md Hashibul Amin, Senior Software Engineer, specializing in Frontend Technologies | React.js, React Native, Next.js</sub>
+<sub><small><em>— Md Hashibul Amin, Senior Software Engineer, specializing in Frontend Technologies | React.js, React Native, Next.js</em></small></sub>
 
 <sub>"Arko is highly skilled in Linux, Backend and DevOps. Always keen to learn and experiment with new things. I've worked with very few awesome Go developers and he's one of them."</sub>  
-<sub style="color: #57606a; font-size: 0.8em">— Saidur Rahman Sajjad, Software Engineer</sub>
+<sub><small><em>— Saidur Rahman Sajjad, Software Engineer</em></small></sub>
 
 ---
 
