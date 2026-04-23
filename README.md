@@ -88,21 +88,6 @@
 
 ---
 
-### Contact
-
-<div>
-<table border="0" cellspacing="0" cellpadding="0" style="width: 100%; border: 0; border-collapse: collapse; border-bottom: 1px solid #d0d7de; margin: 0; padding: 0">
-  <tr>
-  <td style="border: 0; width: 22px; padding: 0 10px 0 0; vertical-align: middle; white-space: nowrap"><a href="https://x.com/asif_imch" rel="noreferrer" title="X (Twitter)"><img width="22" height="22" alt="X" src="https://cdn.simpleicons.org/x/5f6368" /></a></td>
-  <td style="border: 0; width: 22px; padding: 0 10px 0 0; vertical-align: middle; white-space: nowrap"><a href="https://www.asif.bio" rel="noreferrer" title="Personal website"><img width="22" height="22" alt="Website" src="https://api.iconify.design/lucide:globe.svg?color=%235f6368" /></a></td>
-  <td style="border: 0; width: 22px; padding: 0 10px 0 0; vertical-align: middle; white-space: nowrap"><a href="mailto:asif.imch@gmail.com" rel="noreferrer" title="asif.imch@gmail.com — open in mail app"><img width="22" height="22" alt="Email" src="https://api.iconify.design/lucide:mail.svg?color=%235f6368" /></a></td>
-  <td style="border: 0; width: 22px; padding: 0 10px 0 0; vertical-align: middle; white-space: nowrap"><a href="https://github.com/AsifArko" rel="noreferrer" title="GitHub"><img width="22" height="22" alt="GitHub" src="https://cdn.simpleicons.org/github/5f6368" /></a></td>
-  <td style="border: 0; width: 22px; padding: 0; vertical-align: middle; white-space: nowrap"><a href="https://www.instagram.com/__hoods__" rel="noreferrer" title="Instagram"><img width="22" height="22" alt="Instagram" src="https://cdn.simpleicons.org/instagram/5f6368" /></a></td>
-  <td style="border: 0; width: 99%"></td>
-  </tr>
-</table>
-</div>
-
-<div align="center">
+<div align="left">
   <sub><em>Open to senior engineering roles, consulting engagements, and technical collaboration.</em></sub>
 </div>
