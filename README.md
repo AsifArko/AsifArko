@@ -8,7 +8,7 @@
 
 ### Profile
 
-<sub>I build backend-first systems that are reliable under load, maintainable over time, and practical in production. My work spans sports data, VOIP/telecom, e-commerce, and internal tooling, with emphasis on architecture clarity, observability, and release quality.</sub>
+<sub>I build backend-first systems that are reliable under load, maintainable over time, and practical in production. My work spans sports data, VOIP/telecom, e-commerce, and internal workflow pipelines, with emphasis on architecture clarity, observability, and release quality.</sub>
 
 ---
 
