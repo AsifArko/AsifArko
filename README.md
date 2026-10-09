@@ -2,142 +2,159 @@
 
 # Asif Imtiyaz Chowdhury
 
-**Senior Software Engineer** · Distributed Systems · Microservices · Cloud Architecture
-
-<br/>
-
-<a href="https://www.asif.bio" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/Website-asif.bio-1a1a1a?style=flat-square&logoColor=white" alt="Website" />
-</a>
-<a href="https://www.linkedin.com/in/asif-imtiyaz/" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-2d2d2d?style=flat-square&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://github.com/AsifArko" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/GitHub-Profile-3a3a3a?style=flat-square&logoColor=white" alt="GitHub" />
-</a>
+**Senior Software Architect** · Distributed Systems · Backend Infrastructure · Cloud Architecture
 
 </div>
 
 ---
 
-<div align="center" style="margin: 40px 0; padding: 40px 0; border-top: 1px solid #e5e5e5; border-bottom: 1px solid #e5e5e5;">
+<div align="center" style="margin: 50px 0;">
 
-> *Building resilient systems that scale, perform, and remain reliable under production pressure.*
+[![](https://img.shields.io/badge/asif.bio-portfolio-000000?style=flat-square&labelColor=ffffff&color=000000)](https://www.asif.bio)
+[![](https://img.shields.io/badge/linkedin-connect-000000?style=flat-square&labelColor=ffffff&color=000000)](https://www.linkedin.com/in/asif-imtiyaz/)
+[![](https://img.shields.io/badge/github-explore-000000?style=flat-square&labelColor=ffffff&color=000000)](https://github.com/AsifArko)
 
 </div>
 
-## Overview
+---
 
-I am a software engineer with **8+ years** of experience designing and delivering high-impact backend systems across sports data, telecom, e-commerce, and internal workflow platforms.
+<div align="center" style="margin: 60px 0 40px 0; padding: 40px 0; border-top: 1px solid #f0f0f0; border-bottom: 1px solid #f0f0f0;">
 
-My focus is on distributed systems, backend architecture, cloud-native infrastructure, API reliability, and system optimization. I believe in engineering that balances delivery speed, maintainability, and long-term operational quality.
+*Architecting systems at scale. Obsessed with reliability, performance, and elegant solutions.*
+
+*8+ years building production infrastructure across sports data, telecom, and e-commerce ecosystems.*
+
+</div>
 
 ---
 
-## Core Expertise
+## Philosophy
 
-| **Domain** | **Focus** |
-|:---|:---|
-| **Backend Architecture** | Resilient APIs, microservices, and distributed systems at scale |
-| **Cloud & Infrastructure** | AWS-native deployments, containerization, observability, CI/CD |
-| **Data & Performance** | Query optimization, caching strategies, high-throughput pipelines |
-| **Reliability Engineering** | Testing strategy, deployment confidence, production stability |
+I design backend systems that work reliably under production pressure. My approach balances engineering velocity with operational stability—systems that are fast to build, fast to deploy, and fast to reason about.
+
+The best architecture is invisible. It enables teams to move quickly without sacrificing quality or reliability.
 
 ---
 
-## Experience
+## Expertise
 
-### **Cefalo**
-*Dhaka, Bangladesh*
+**Systems & Architecture**  
+Distributed systems design · Microservices · API architecture · Multi-region deployments · Event-driven systems
 
-**Senior Software Engineer** `2022 – 2024`
+**Backend Engineering**  
+High-performance APIs · Query optimization · Caching strategies · Database design · Real-time data pipelines
 
-- Architected multilingual real-time sports data APIs serving major event ecosystems
-- Built orchestration, standings calculation, results processing, and export pipelines
-- Designed Neo4j abstraction layer reducing query complexity by ~40%
-- Established CI/CD automation and layered testing (unit, API, integration)
-- Delivered production services for World Cup, World Championship, Grand Prix, and Olympic broadcasts
+**Cloud & Infrastructure**  
+AWS ecosystem · Container orchestration · CI/CD automation · Observability & monitoring · Infrastructure as code
 
-**Software Engineer** `2020 – 2022`
-
-- Built core backend services for sports data platform
-- Developed CRUD and CMS services supporting event workflows
-- Implemented cache management and performance optimization
+**Reliability**  
+Testing strategy · Deployment confidence · Performance engineering · System resilience · Production hardening
 
 ---
 
-### **Kickbackapps Inc.**
-*Dhaka, Bangladesh*
+## Career
+
+### **Cefalo** — Dhaka, Bangladesh
+
+**Senior Software Engineer**  
+`2022 – 2024`
+
+Architected real-time sports data infrastructure for Norwegian Telegramagency (NTB), serving millions of requests for global sporting events.
+
+- Designed multilingual APIs powering World Cup, World Championship, Grand Prix, and Olympic workflows
+- Built orchestration, standings calculation, results processing, and export systems from the ground up
+- Engineered Neo4j abstraction layer reducing query complexity by ~40%, improving both performance and maintainability
+- Established comprehensive testing strategy (unit, API, integration) and CI/CD automation for production confidence
+- Led technical decisions across cache management, rate limiting, and data consistency
+
+**Software Engineer**  
+`2020 – 2022`
+
+Built core backend services supporting the sports data platform.
+
+- Developed CRUD and CMS services enabling event workflow management
+- Implemented performance optimizations and caching infrastructure
+- Contributed to architectural evolution as system complexity increased
+
+**Live on:** [SportsData](https://www.ntb.no/sport/sportsdata) · [NRK](https://resultater.nrk.no/vintersport/) · [TV2](https://www.tv2.no/)
+
+---
+
+### **Kickbackapps Inc.** — Dhaka, Bangladesh
 
 **Software Engineer** `2019 – 2020`
 
-- Built backend infrastructure for PhoneLine, GhostCall, and PrankDial (millions of users)
-- Integrated VOIP platforms (Twilio, Plivo, InfoBIP) with RBAC and rate limiting
-- Engineered queue management and operational tooling
+Built backend infrastructure for consumer communication applications reaching millions of users.
+
+- Engineered backend services for PhoneLine, GhostCall, and PrankDial
+- Integrated carrier-grade VOIP platforms (Twilio, Plivo, InfoBIP) with robust rate limiting and RBAC
+- Designed queue management systems and operational tooling for team efficiency
 
 ---
 
-### **Shimahin Limited**
-*Dhaka, Bangladesh*
+### **Shimahin Limited** — Dhaka, Bangladesh
 
 **Software Engineer** `2018 – 2019`
 
-- Delivered microservices for order flows, delivery management, payment integration
-- Built third-party integrations supporting business-critical operations
+Led microservices development for e-commerce platform operations.
+
+- Built distributed services for order flows, delivery management, and payment integration
+- Delivered third-party integrations supporting business-critical workflows
+- Established patterns for service reliability and data consistency
 
 ---
 
-## Technical Architecture
+## Technical Foundation
 
-### Languages & Runtimes
-`Node.js` · `TypeScript` · `Go` · `Python` · `PHP` · `Dart` · `Solidity`
+**Languages**  
+Node.js · TypeScript · Go · Python · PHP · Dart · Solidity
 
-### Frontend & Mobile
-`React.js` · `Next.js` · `React Native` · `Flutter` · `Laravel`
+**Databases**  
+PostgreSQL · MongoDB · Neo4j · Redis · Couchbase · DynamoDB
 
-### Databases & Storage
-`PostgreSQL` · `MongoDB` · `Neo4j` · `Redis` · `Couchbase` · `DynamoDB` · `Amazon S3`
+**Cloud Platforms**  
+AWS (EC2, ECS, EKS, Lambda, RDS, S3, API Gateway, CloudWatch, SQS, SNS)
 
-### Cloud & Infrastructure
-`AWS` · `EC2` · `ECS` · `EKS` · `Lambda` · `RDS` · `S3` · `API Gateway` · `CloudWatch` · `Docker` · `Linux`
+**Infrastructure**  
+Docker · Kubernetes · Linux · Prometheus · Grafana
 
-### Architecture & Quality
-`Microservices` · `Distributed Systems` · `REST APIs` · `gRPC` · `GraphQL` · `Load Balancing` · `Cache Management` · `Unit Testing` · `Integration Testing` · `Performance Testing` · `Security Testing`
+**Architecture Patterns**  
+Microservices · Distributed Systems · REST APIs · gRPC · GraphQL · Message Brokers · Load Balancing · Cache Management
 
----
-
-## Impact & Achievements
-
-- Delivered backend infrastructure powering major live sports event workflows globally
-- Built systems with multi-region readiness and production-grade reliability standards
-- Improved system performance and maintainability through architecture and query optimization
-- Created automation pipelines reducing deployment risk and accelerating confidence
+**Quality**  
+Unit Testing · Integration Testing · API Testing · Performance Testing · Security Testing · Stress Testing
 
 ---
 
 ## Testimonials
 
-<div align="center">
+<div style="margin: 60px 0; padding: 30px 0; border-top: 1px solid #f0f0f0; border-bottom: 1px solid #f0f0f0;">
 
-> *"Asif is a highly skilled software engineer with exceptional strength in graph databases, Node.js, and React. His ability to architect scalable systems makes him an invaluable asset to any team."*
+> *"Asif is a highly skilled engineer with exceptional depth in graph databases, Node.js, and system architecture. His ability to design scalable solutions and mentor team members makes him invaluable."*
 >
 > — **Md. Akimul Islam**, Staff Software Engineer, Cefalo
 
----
+</div>
 
-> *"Asif has been developing our backend services in TypeScript and Node.js with deep understanding of architecture and performance. His database expertise has been highly valuable."*
+<div style="margin: 60px 0; padding: 30px 0; border-top: 1px solid #f0f0f0; border-bottom: 1px solid #f0f0f0;">
+
+> *"Asif has been instrumental in building our backend services. His expertise in TypeScript, Node.js, and database architecture—particularly graph and document systems—has directly improved our platform performance."*
 >
 > — **Marius Hagalid**, Tech Lead, NTB
 
----
+</div>
 
-> *"Asif brings enthusiasm, technical depth, and solution-oriented thinking to every challenge. Reliable, sharp, and consistently contributes at a high level."*
+<div style="margin: 60px 0; padding: 30px 0; border-top: 1px solid #f0f0f0; border-bottom: 1px solid #f0f0f0;">
+
+> *"Asif brings technical depth, solution-oriented thinking, and genuine enthusiasm to every challenge. Reliable, sharp, and a strong contributor."*
 >
 > — **Terje Alstad**, Sportsdatasjef, NTB
 
----
+</div>
 
-> *"A quick learner with strong work ethic and exceptional technical proficiency. Asif has been a key contributor across multiple projects."*
+<div style="margin: 60px 0; padding: 30px 0; border-top: 1px solid #f0f0f0; border-bottom: 1px solid #f0f0f0;">
+
+> *"A quick learner with strong work ethic and technical proficiency. Asif has been a key contributor across multiple projects and a pleasure to collaborate with."*
 >
 > — **Sanjidul Hoque**, Senior Software Engineer, Sibros
 
@@ -145,46 +162,31 @@ My focus is on distributed systems, backend architecture, cloud-native infrastru
 
 ---
 
-## Current Focus
+## What I'm Exploring
 
-Exploring advanced distributed systems design, cloud-native architectures, observability patterns, and technical leadership.
+- Advanced patterns in distributed systems and fault tolerance
+- Observability and monitoring at scale
+- Cloud-native architecture optimization
+- Technical leadership and architectural guidance
 
-**Available for:** Senior engineering roles · Architecture consulting · Technical partnerships · Strategic collaborations
+**Interested in:** Senior engineering roles · Architectural consulting · Technical partnerships · Knowledge sharing
 
 ---
 
-## References & Deployments
+<div align="center" style="margin: 60px 0 40px 0; padding: 40px 0; border-top: 1px solid #f0f0f0;">
 
-<div align="center">
+## Let's Connect
 
-**Production Systems Deployed On:**
-
-[SportsData](https://www.ntb.no/sport/sportsdata) · [NRK](https://resultater.nrk.no/vintersport/) · [TV2](https://www.tv2.no/)
+**[asif.bio](https://www.asif.bio)** — Full portfolio and writings  
+**[LinkedIn](https://www.linkedin.com/in/asif-imtiyaz/)** — Professional network  
+**[GitHub](https://github.com/AsifArko)** — Open source work
 
 </div>
 
 ---
 
-<div align="center" style="margin-top: 50px; padding-top: 40px; border-top: 1px solid #e5e5e5;">
+<div align="center" style="margin-top: 50px; font-size: 12px; color: #999; padding: 30px 0;">
 
-### Connect
-
-<a href="https://www.asif.bio" style="text-decoration: none; display: inline-block; margin: 0 10px;">
-  <img src="https://img.shields.io/badge/Portfolio-asif.bio-1a1a1a?style=flat-square" alt="Portfolio" />
-</a>
-<a href="https://www.linkedin.com/in/asif-imtiyaz/" style="text-decoration: none; display: inline-block; margin: 0 10px;">
-  <img src="https://img.shields.io/badge/LinkedIn-Asif%20Imtiyaz-2d2d2d?style=flat-square" alt="LinkedIn" />
-</a>
-<a href="https://github.com/AsifArko" style="text-decoration: none; display: inline-block; margin: 0 10px;">
-  <img src="https://img.shields.io/badge/GitHub-AsifArko-3a3a3a?style=flat-square" alt="GitHub" />
-</a>
-
-</div>
-
----
-
-<div align="center" style="margin-top: 50px; font-size: 13px; color: #666;">
-
-*Focused on engineering excellence and system design. Always learning, always building.*
+*Precision in design. Excellence in execution. Always learning.*
 
 </div>
