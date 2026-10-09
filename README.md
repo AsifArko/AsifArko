@@ -2,140 +2,161 @@
 
 # Asif Imtiyaz Chowdhury
 
-**Senior Software Engineer** – Distributed Systems • Microservices • Cloud Architecture
+### Senior Software Engineer · Distributed Systems · Microservices · Cloud Architecture
 
 <br/>
 
-[![Website](https://img.shields.io/badge/Website-asif.bio-000?style=for-the-badge&logo=link&logoColor=fff)](https://www.asif.bio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/asif-imtiyaz/)
-[![GitHub](https://img.shields.io/badge/GitHub-AsifArko-181717?style=for-the-badge&logo=github)](https://github.com/AsifArko)
+[![Website](https://img.shields.io/badge/Website-asif.bio-111827?style=for-the-badge&logo=globe&logoColor=white)](https://www.asif.bio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asif-imtiyaz/)
+[![GitHub](https://img.shields.io/badge/GitHub-AsifArko-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AsifArko)
 
 </div>
 
 ---
 
+<div align="center">
+
+> Building resilient systems that scale, perform, and stay reliable under production pressure.
+
+</div>
+
 ## Overview
 
-I architect and ship production-grade distributed systems with a focus on reliability, scalability, and operational excellence. Over 8+ years, I've designed backend infrastructure for sports analytics, telecom platforms, and e-commerce systems serving millions of users across multi-region environments.
+I am a software engineer with 8+ years of experience designing and delivering high-impact backend systems across sports data, telecom, e-commerce, and internal workflow platforms.
 
-My philosophy: **engineering speed paired with production stability**.
+My work focuses on distributed systems, backend architecture, cloud-native infrastructure, API reliability, and system optimization. I care deeply about engineering that balances speed, maintainability, and long-term operational quality.
 
 ---
 
 ## Core Expertise
 
-**Backend Architecture** – Designing resilient microservices, API-first systems, and event-driven architectures at scale
-
-**Data Infrastructure** – Building high-throughput data pipelines, caching strategies, and query optimization
-
-**Cloud Operations** – Multi-region deployments, containerization, observability, and infrastructure automation
-
-**System Reliability** – CI/CD automation, comprehensive testing, and operational excellence
-
----
-
-## Professional Experience
-
-### **Cefalo** | Dhaka, Bangladesh
-**Senior Software Engineer** (2022–2024) • **Software Engineer** (2020–2022)
-
-Designed and built real-time sports data infrastructure powering major sporting events:
-
-- **NTB (Norwegian Telegramagency)** — Architected multilingual API infrastructure for World Cup, World Championships, Grand Prix, and Olympic broadcasts
-- Built orchestration, standings calculation, results processing, and export systems handling millions of concurrent requests
-- Optimized database queries through Neo4j abstraction layer, reducing complexity by ~40%
-- Established testing pyramid and CI/CD automation to ensure 99.9% uptime for live event systems
-
-**Deployed on:** [SportsData](https://www.ntb.no/sport/sportsdata) • [NRK](https://resultater.nrk.no/vintersport/) • [TV2](https://www.tv2.no/)
+<table>
+  <tr>
+    <td><strong>Backend Architecture</strong></td>
+    <td>Designing resilient APIs, microservices, and distributed systems for real-world scale</td>
+  </tr>
+  <tr>
+    <td><strong>Cloud & Infrastructure</strong></td>
+    <td>AWS-native deployments, containers, observability, CI/CD, and infrastructure automation</td>
+  </tr>
+  <tr>
+    <td><strong>Data & Performance</strong></td>
+    <td>Query optimization, caching, result processing, and large-scale data handling</td>
+  </tr>
+  <tr>
+    <td><strong>Reliability Engineering</strong></td>
+    <td>Testing strategy, deployment confidence, monitoring, and production stability</td>
+  </tr>
+</table>
 
 ---
 
-### **Kickbackapps Inc.** | Dhaka, Bangladesh
+## Experience
+
+### Cefalo
+Dhaka, Bangladesh  
+**Senior Software Engineer** (2022–2024) · **Software Engineer** (2020–2022)
+
+- Architected multilingual real-time sports data APIs for NTB and major event ecosystems
+- Built orchestration, standings, export processing, results pipelines, and CMS-backed services
+- Designed a Neo4j abstraction layer that reduced query complexity and improved maintainability
+- Strengthened system reliability through CI/CD automation and layered testing across unit, API, and integration flows
+- Delivered production-grade services used across World Cup, World Championship, Grand Prix, and Olympic workloads
+
+**References:** [SportsData](https://www.ntb.no/sport/sportsdata) · [NRK](https://resultater.nrk.no/vintersport/) · [TV2](https://www.tv2.no/)
+
+### Kickbackapps Inc.
+Dhaka, Bangladesh  
 **Software Engineer** (2019–2020)
 
-Built backend infrastructure for mass-market communication applications:
+- Built backend systems for high-scale communication products including PhoneLine, GhostCall, and PrankDial
+- Integrated VOIP platforms such as Twilio, Plivo, and InfoBIP with RBAC, rate limiting, and operational controls
+- Engineered queue management and internal tooling for robust service operations
 
-- Developed APIs for PhoneLine, GhostCall, and PrankDial reaching millions of users
-- Integrated carrier-grade VOIP platforms (Twilio, Plivo, InfoBIP) with advanced rate-limiting and RBAC
-- Engineered queue management systems and operational tooling
-
----
-
-### **Shimahin Limited** | Dhaka, Bangladesh
+### Shimahin Limited
+Dhaka, Bangladesh  
 **Software Engineer** (2018–2019)
 
-Led microservices architecture for e-commerce operations:
-
-- Built distributed order management, payment processing, and delivery logistics APIs
-- Implemented third-party payment and logistics integrations for business-critical workflows
+- Delivered microservices and APIs for order flows, delivery management, payment integration, and e-commerce operations
+- Enabled third-party integrations and business-critical workflows across multiple domains
 
 ---
 
-## Technical Architecture
+## Technical Stack
 
-### Languages & Runtimes
+### Languages and Runtimes
 `Node.js` `TypeScript` `Go` `Python` `PHP` `Dart` `Solidity`
 
-### Frontend & Mobile
+### Frontend and Mobile
 `React.js` `Next.js` `React Native` `Flutter` `Laravel`
 
-### Databases & Storage
+### Data and Storage
 `PostgreSQL` `MongoDB` `Neo4j` `Redis` `Couchbase` `DynamoDB` `Amazon S3`
 
-### Cloud & Infrastructure
-`AWS` (EC2, ECS, EKS, Lambda, RDS, S3, SQS, SNS, CloudWatch, API Gateway) • `Docker` • `Kubernetes` • `Linux`
+### Cloud and Infrastructure
+`AWS` `EC2` `ECS` `EKS` `Lambda` `RDS` `S3` `API Gateway` `SQS` `SNS` `CloudWatch` `Docker` `Linux`
 
-### Observability & DevOps
-`Prometheus` `Grafana` `CloudWatch` `TeamCity` `CI/CD Pipelines`
+### Architecture and Quality
+`Microservices` `Distributed Systems` `REST APIs` `gRPC` `GraphQL` `Load Balancing` `Cache Management` `Unit Testing` `Integration Testing` `Performance Testing` `Security Testing`
 
-### Architectural Patterns
-`Microservices` `Distributed Systems` `REST APIs` `gRPC` `GraphQL` `Message Brokers` `Load Balancing` `Cache Strategies` `Event-Driven Systems`
+---
 
-### Quality Assurance
-`Unit Testing` `Integration Testing` `API Testing` `Performance Testing` `Stress Testing` `Security Testing` `Regression Testing`
+## Selected Impact
+
+- Delivered backend infrastructure powering major live sports event workflows
+- Built systems with multi-region readiness and production-grade reliability
+- Improved performance and maintainability through architecture and query optimization
+- Created automation pipelines that reduce risk and accelerate deployment confidence
 
 ---
 
 ## Testimonials
 
-> "Asif is a highly skilled software engineer with exceptional strength in graph databases, Node.js, and React. His ability to architect scalable systems and mentor junior developers makes him an asset to any organization."
+> "Asif is a highly skilled software engineer with exceptional strength in graph databases, Node.js, and React. His ability to architect scalable systems and deliver production-ready solutions makes him an invaluable contributor."
 >
-> — **Md. Akimul Islam**, Staff Software Engineer, Cefalo
+> — Md. Akimul Islam, Staff Software Engineer, Cefalo
 
-> "Working with Asif on our backend services has been invaluable. His expertise in TypeScript, Node.js, and database architecture—particularly with graph and document databases—directly improved our platform's performance."
+> "Asif has been developing our backend services in TypeScript and Node.js with a clear understanding of architecture, performance, and maintainability. His database knowledge, especially around graph and document systems, has been highly valuable."
 >
-> — **Marius Hagalid**, Tech Lead, NTB
+> — Marius Hagalid, Tech Lead, NTB
 
-> "Asif consistently demonstrates remarkable enthusiasm, technical depth, and solution-oriented thinking. His contributions span architecture design, code quality, and team leadership."
+> "Asif brings enthusiasm, depth, and a solution-oriented mindset to every engineering challenge. He is reliable, sharp, and consistently contributes at a high level."
 >
-> — **Terje Alstad**, Head of Sports Data, NTB
-
-> "A quick learner with strong work ethic and exceptional technical proficiency. Asif has been a key contributor across multiple projects and would be an excellent addition to any engineering team."
->
-> — **Sanjidul Hoque**, Senior Software Engineer, Sibros
+> — Terje Alstad, Sportsdatasjef, NTB
 
 ---
 
-## Currently
+## Current Focus
 
-Focused on:
 - Advanced distributed systems design and optimization
-- Cloud-native architecture patterns
-- Open-source contributions in backend technologies
-- Technical mentorship and architecture consulting
+- Cloud-native backend architecture
+- Observability, automation, and operational excellence
+- Technical leadership and architecture consulting
 
-**Available for** – Senior engineering roles, architecture consulting, technical partnerships, and knowledge sharing engagements.
+**Available for:** senior software engineering roles, architecture consulting, technical collaboration, and strategic engineering partnerships.
 
 ---
 
 <div align="center">
 
-**[asif.bio](https://www.asif.bio)** — Full portfolio and blog
+## Portfolio
 
-For inquiries or collaboration: [LinkedIn](https://www.linkedin.com/in/asif-imtiyaz/) • [GitHub](https://github.com/AsifArko)
+[![Portfolio](https://img.shields.io/badge/asif.bio-Portfolio-111827?style=for-the-badge&logo=notion&logoColor=white)](https://www.asif.bio)
+
+</div>
 
 ---
 
-<sub>Exploring the intersection of engineering excellence and system design.</sub>
+<div align="center">
+
+[LinkedIn](https://www.linkedin.com/in/asif-imtiyaz/) · [GitHub](https://github.com/AsifArko) · [Portfolio](https://www.asif.bio)
+
+</div>
+
+---
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AsifArko&show_icons=true&theme=tokyonight&hide_border=true)
 
 </div>
