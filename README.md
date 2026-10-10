@@ -218,7 +218,7 @@ Led microservices development for e-commerce platform.
 
 Exploring advanced topics in distributed systems, fault tolerance, and observability. Advising on technical strategy and architecture.
 
-**Open to:** Founder roles · CTO opportunities · Technical advisory · Architectural consulting · Technology partnerships · Speaking engagements
+**Open to:** Founder roles · Tech Lead opportunities · Technical advisory · Architectural consulting · Technology partnerships
 
 ---
 
