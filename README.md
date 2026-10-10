@@ -8,7 +8,7 @@
 
 ---
 
-<div align="center" style="margin: 50px 0 30px 0;">
+<div align="center" style="margin: 42px 0 28px 0;">
 
 [![](https://img.shields.io/badge/asif.bio-000000?style=flat-square&logo=globe&logoColor=ffffff)](https://www.asif.bio)
  · 
@@ -20,7 +20,7 @@
 
 ---
 
-<div align="center" style="margin: 60px 0; padding: 40px 0; border-top: 1px solid #e8e8e8; border-bottom: 1px solid #e8e8e8; line-height: 1.8; font-size: 15px; letter-spacing: 0.3px;">
+<div align="center" style="margin: 48px 0; padding: 36px 0; border-top: 1px solid #e8e8e8; border-bottom: 1px solid #e8e8e8; line-height: 1.85; font-size: 15px; letter-spacing: 0.2px; color: #1a1a1a;">
 
 *Architect of resilient systems at scale.*
 
@@ -34,22 +34,22 @@
 
 ## Engineering Philosophy
 
-The best systems are invisible. They enable teams to move fast without sacrificing reliability. I build infrastructure that scales with your business—predictable, maintainable, engineered for the future.
+The best systems are invisible. They enable teams to move fast without sacrificing reliability. I build infrastructure that scales with the business—predictable, maintainable, and designed for tomorrow.
 
-I combine technical rigor with pragmatic decision-making. Every architectural choice involves trade-offs; I help teams navigate them with clarity and confidence.
+I combine technical rigor with pragmatic decision-making. Every architectural choice has trade-offs; I help teams navigate them with clarity, speed, and confidence.
 
 ---
 
 ## Capabilities
 
 **Architecture & Systems Design**  
-Distributed systems · Microservices · Real-time data pipelines · Multi-region deployment · Event-driven architecture · Scalability strategy
+Distributed systems · Microservices · Real-time pipelines · Multi-region deployment · Event-driven architecture · Scalability strategy
 
 **Backend Engineering**  
 High-performance APIs · Database optimization · Query complexity reduction · Caching strategies · API design (REST, gRPC, GraphQL) · Performance analysis
 
 **Frontend, Web & Mobile Development**  
-React.js · Next.js · React Native · Mobile architecture · Web application design · Cross-platform development
+React.js · Next.js · React Native · Mobile architecture · Web application design · Cross-platform engineering
 
 **Cloud & Infrastructure**  
 AWS ecosystem (Lambda, ECS, EKS, RDS, S3, API Gateway, CloudWatch, SNS, SQS) · Serverless architecture · Container orchestration · Network design · Cloud security
