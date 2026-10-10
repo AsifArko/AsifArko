@@ -20,7 +20,7 @@
 
 ---
 
-<div align="center" style="margin: 60px 0; padding: 40px 0; border-top: 1px solid #e8e8e8; border-bottom: 1px solid #e8e8e8; line-height: 1.8;">
+<div align="center" style="margin: 60px 0; padding: 40px 0; border-top: 1px solid #e8e8e8; border-bottom: 1px solid #e8e8e8; line-height: 1.8; font-size: 15px; letter-spacing: 0.3px;">
 
 *Architect of resilient systems at scale.*
 
@@ -32,11 +32,11 @@
 
 ---
 
-## Conviction
+## Engineering Philosophy
 
-The best systems are invisible. They enable teams to move fast without sacrificing reliability. I build infrastructure that scales with your business—predictable, maintainable, built for the future.
+The best systems are invisible. They enable teams to move fast without sacrificing reliability. I build infrastructure that scales with your business—predictable, maintainable, engineered for the future.
 
-I combine engineering rigor with pragmatic decision-making. Every architectural choice has trade-offs; I help teams navigate them with clarity.
+I combine technical rigor with pragmatic decision-making. Every architectural choice involves trade-offs; I help teams navigate them with clarity and confidence.
 
 ---
 
@@ -47,6 +47,9 @@ Distributed systems · Microservices · Real-time data pipelines · Multi-region
 
 **Backend Engineering**  
 High-performance APIs · Database optimization · Query complexity reduction · Caching strategies · API design (REST, gRPC, GraphQL) · Performance analysis
+
+**Frontend, Web & Mobile Development**  
+React.js · Next.js · React Native · Mobile architecture · Web application design · Cross-platform development
 
 **Cloud & Infrastructure**  
 AWS ecosystem (Lambda, ECS, EKS, RDS, S3, API Gateway, CloudWatch, SNS, SQS) · Serverless architecture · Container orchestration · Network design · Cloud security
@@ -114,10 +117,9 @@ Smart contract development · Ethereum · Solidity · Cryptography · Cryptocurr
 
 ## Career Trajectory
 
-### **Cefalo** — Dhaka, Bangladesh
+### **Cefalo** — Dhaka, Bangladesh | `2020 – 2024`
 
-**Senior Software Engineer & Technical Lead**  
-`2022 – 2024`
+**Senior Software Engineer & Technical Lead** `2022 – 2024`
 
 Architected enterprise-scale real-time sports data infrastructure for Norwegian Telegramagency (NTB), serving millions of concurrent requests.
 
@@ -128,8 +130,7 @@ Architected enterprise-scale real-time sports data infrastructure for Norwegian 
 - Designed caching strategy, rate limiting, and data consistency patterns for production systems
 - Led architectural decisions across 15+ projects with 25+ technologies
 
-**Software Engineer**  
-`2020 – 2022`
+**Software Engineer** `2020 – 2022`
 
 Built foundational backend services supporting sports data platform.
 
@@ -210,9 +211,9 @@ Exploring advanced topics in distributed systems, fault tolerance, and observabi
 
 ---
 
-<div align="center" style="margin: 60px 0 40px 0; padding: 40px 0; border-top: 1px solid #e8e8e8;">
+<div style="margin: 60px 0 40px 0; padding: 40px 0; border-top: 1px solid #e8e8e8; text-align: left;">
 
-### Get In Touch
+## Get In Touch
 
 **[asif.bio](https://www.asif.bio)** — Full portfolio, writings, and insights  
 **[LinkedIn](https://www.linkedin.com/in/asif-imtiyaz/)** — Professional network & updates  
@@ -222,7 +223,7 @@ Exploring advanced topics in distributed systems, fault tolerance, and observabi
 
 ---
 
-<div align="center" style="margin-top: 50px; font-size: 11px; letter-spacing: 1px; color: #999; padding: 30px 0; text-transform: uppercase;">
+<div style="margin-top: 50px; font-size: 11px; letter-spacing: 1px; color: #999; padding: 30px 0; text-align: left; text-transform: uppercase;">
 
 Systems. Scale. Strategy.
 
