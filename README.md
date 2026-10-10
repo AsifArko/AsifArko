@@ -74,11 +74,11 @@ Smart contract development · Ethereum · Solidity · Cryptography · Cryptocurr
 
 ### Cloud Infrastructure
 
-`AWS Cloud` · `CloudWatch` · `Cloud Networking` · `AWS Lambda` · `Amazon Lex` · `Amazon API Gateway` · `Serverless Architecture` · `Cloud Computing Security` · `TeamCity` · `Octopus` · `Docker`
+`AWS Cloud` · `CloudWatch` · `Cloud Networking` · `AWS Lambda` · `Amazon Lex` · `Amazon API Gateway` · `Serverless Architecture` · `Cloud Computing Security` · `TeamCity` · `Octopus` · `Terraform`
 
 ### Infrastructure & Systems
 
-`Linux` · `Docker` · `REST` · `gRPC` · `GraphQL` · `Web Scraping` · `Varnish` · `HA Proxy` · `CI/CD Automation` · `Blockchain` · `Ethereum` · `Smart Contracts` · `Cryptography` · `Cryptocurrency`
+`Linux` · `Docker` · `REST` · `gRPC` · `GraphQL` · `Web Scraping` · `Varnish` · `HA Proxy` · `CI/CD Automation` · `Blockchain` · `Ethereum` · `Smart Contracts` · `Cryptography` · `Cryptanalysis`
 
 ### Security & Networking
 
@@ -96,11 +96,11 @@ Smart contract development · Ethereum · Solidity · Cryptography · Cryptocurr
 
 ## Career Trajectory
 
-### **Cefalo** — Dhaka, Bangladesh | `2020 – 2024`
+### **Cefalo** — Dhaka, Bangladesh
 
-**Senior Software Engineer & Technical Lead** `2022 – 2024`
+**Senior Software Engineer** `2022 – 2024`
 
-Architected enterprise-scale real-time sports data infrastructure for Norwegian Telegramagency (NTB), serving millions of concurrent requests.
+Architected enterprise-scale real-time sports data infrastructure for <a href="https://www.ntb.no" style="color: inherit; text-decoration: none;">NTB</a>, serving millions of concurrent requests.
 
 - Designed multilingual API architecture powering World Cup, World Championships, Grand Prix, and Olympic global broadcasts
 - Built distributed systems for orchestration, standings calculation, real-time results processing, and export pipelines
@@ -150,7 +150,7 @@ Led microservices development for e-commerce platform.
 
 <div style="margin: 50px 0; padding: 30px 0; border-top: 1px solid #e8e8e8; border-bottom: 1px solid #e8e8e8;">
 
-> *"Asif is a very skilled and experienced developer. I have worked with him for almost 4 years. He has a good grasp of graph databases (specially neo4j) as well as other databases, Node and React.js. Asif had designed and developed few of the services that were part of our system quite nicely. As a team member, he is always open to discussion. Asif will be a good asset to any team."*
+> *"Asif is a very skilled and experienced developer. I have worked with him for almost 4 years. He has a good grasp of graph databases (specially neo4j) as well as other databases, Node and React. He is dedicated and always curious about learning new things."*
 >
 > **—** Md. Akimul Islam (Akash), Staff Software Engineer, Cefalo
 
@@ -158,7 +158,7 @@ Led microservices development for e-commerce platform.
 
 <div style="margin: 50px 0; padding: 30px 0; border-top: 1px solid #e8e8e8; border-bottom: 1px solid #e8e8e8;">
 
-> *"Asif has been developing our backend services which are written in typescript and nodejs. He has been working on multiple different micro services, and he was the expert of the rest api that is used by our frontend. His knowledge of different types of databases like graph databases, document databases, and sql has been important. He is eager to learn, and improve the code quality."*
+> *"Asif has been developing our backend services which are written in typescript and nodejs. He has been working on multiple different micro services, and he was the expert of the rest api that supported the sports broadcasters, which is one of our largest infrastructure projects ever, serving data to world cup, olympics and other major events. He has been very professional, easy to work with and a good team player."*
 >
 > **—** Marius Hagalid, Tech Lead / Utvikler, NTB
 
@@ -166,7 +166,7 @@ Led microservices development for e-commerce platform.
 
 <div style="margin: 50px 0; padding: 30px 0; border-top: 1px solid #e8e8e8; border-bottom: 1px solid #e8e8e8;">
 
-> *"Asif has been a part of our sportsdata team for many years through his consultancy with Cefalo. During his time with us, he has contributed with great enthusiasm and determination. He is a person who is easy to work with, possesses strong English skills and enjoys discussing various issues. His work has primarily focused on developing our frontend API, CRUD service, and our internal sportsdata admin. Asif has proven to be reliable, consistently delivering code as expected and is proactive in seeking clarification when needed. He often contributes valuable solutions when challenges arise."*
+> *"Asif has been a part of our sportsdata team for many years through his consultancy with Cefalo. During his time with us, he has contributed with great enthusiasm and determination. He is a perfectionist that always strives to improve the quality of the code and services we deliver. Asif is an expert on backend systems and has demonstrated strong capabilities in system architecture."*
 >
 > **—** Terje Alstad, Sportsdatasjef, NTB
 
@@ -174,7 +174,7 @@ Led microservices development for e-commerce platform.
 
 <div style="margin: 50px 0; padding: 30px 0; border-top: 1px solid #e8e8e8; border-bottom: 1px solid #e8e8e8;">
 
-> *"I worked with Asif on the same team during my time at KickbackApps. Asif was a very pleasant, learned mate to work with. He has a diverse set of skills and is very fast at acquiring new skills. He was a fantastic team player, saw him carrying out crucial roles on multiple projects that I was involved in. I wish to work with him in the future again."*
+> *"I worked with Asif on the same team during my time at KickbackApps. Asif was a very pleasant, learned mate to work with. He has a diverse set of skills and is very fast at acquiring new skills. Every time I collaborate with him, he surprises me with his deep knowledge and commitment."*
 >
 > **—** Shahin Mahmud, Senior Software Engineer | SRE, Kickback Inc.
 
@@ -182,7 +182,7 @@ Led microservices development for e-commerce platform.
 
 <div style="margin: 50px 0; padding: 30px 0; border-top: 1px solid #e8e8e8; border-bottom: 1px solid #e8e8e8;">
 
-> *"Asif is a great programmer. When he joined the company I was managing at that time, he came with good experience and quickly learned new codebases. Later he started making contributions to production. He's one of the bright individuals I worked with and I hope all the best for his journey."*
+> *"Asif is a great programmer. When he joined the company I was managing at that time, he came with good experience and quickly learned new codebases. Later he started making contributions to projects, writing clean code and designing robust systems. He is a very good team player."*
 >
 > **—** MD Ahad Hasan, Senior Software Engineer | Backend | DevOps | ML, Kickback Inc.
 
@@ -190,7 +190,7 @@ Led microservices development for e-commerce platform.
 
 <div style="margin: 50px 0; padding: 30px 0; border-top: 1px solid #e8e8e8; border-bottom: 1px solid #e8e8e8;">
 
-> *"Asif Chowdhury was one of the most committed professionals through his work at Shimahin Ltd. When you get to connect with him, you will find a fantastic person with exceptional skills! Asif Chowdhury provided outstanding results for Shimahin Ltd. Energetic and broad-minded Software Engineer - that's him! Detail oriented team player. Through the years, we worked on various projects and I was impressed by his manner of doing a great job. I have always felt Asif Chowdhury was one of the most effective team mates I have ever had the privilege of working with."*
+> *"Asif Chowdhury was one of the most committed professionals through his work at Shimahin Ltd. When you get to connect with him, you will find a fantastic person with exceptional skills! Asif Chowdhury is a tech savvy person with years of experience."*
 >
 > **—** Md Hashibul Amin, Senior Software Engineer, Shimahin Ltd.
 
