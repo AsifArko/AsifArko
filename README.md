@@ -34,7 +34,7 @@
 
 ## Engineering Philosophy
 
-The best systems are invisible. They enable teams to move fast without sacrificing reliability. I build infrastructure that scales with the business—predictable, maintainable, and designed for tomorrow.
+The best systems are invisible. They enable teams to move fast without sacrificing reliability. I build infrastructure that scales with the business—predictable, maintainable, and designed for the long term.
 
 I combine technical rigor with pragmatic decision-making. Every architectural choice has trade-offs; I help teams navigate them with clarity, speed, and confidence.
 
@@ -74,7 +74,7 @@ Smart contract development · Ethereum · Solidity · Cryptography · Cryptocurr
 
 ### Cloud Infrastructure
 
-`AWS Cloud` · `CloudWatch` · `Cloud Networking` · `AWS Lambda` · `Amazon Lex` · `Amazon API Gateway` · `Serverless Architecture` · `Cloud Computing Security` · `TeamCity` · `Octopus` · `Heroku` · `Vercel` · `SNS` · `SQS` · `RabbitMQ` · `MQTT`
+`AWS Cloud` · `CloudWatch` · `Cloud Networking` · `AWS Lambda` · `Amazon Lex` · `Amazon API Gateway` · `Serverless Architecture` · `Cloud Computing Security` · `TeamCity` · `Octopus` · `Docker`
 
 ### Infrastructure & Systems
 
