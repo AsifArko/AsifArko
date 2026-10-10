@@ -100,7 +100,7 @@ Smart contract development · Ethereum · Solidity · Cryptography · Cryptocurr
 
 **Senior Software Engineer** `2022 – 2024`
 
-Architected enterprise-scale real-time sports data infrastructure for <a href="https://www.ntb.no"><span style="color: #000 !important; text-decoration: none !important;">NTB</span></a>, serving millions of concurrent requests.
+Architected enterprise-scale real-time sports data infrastructure for [NTB](https://www.ntb.no), serving millions of concurrent requests.
 
 - Designed multilingual API architecture powering World Cup, World Championships, Grand Prix, and Olympic global broadcasts
 - Built distributed systems for orchestration, standings calculation, real-time results processing, and export pipelines
