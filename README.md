@@ -64,54 +64,33 @@ Smart contract development · Ethereum · Solidity · Cryptography · Cryptocurr
 
 ## Technical Landscape
 
-### Core Languages & Runtimes
+### Core Languages & Frameworks
 
-`Node.js` · `TypeScript` · `JavaScript` · `Go` · `Python` · `PHP` · `Solidity`
+`Node.js` · `TypeScript` · `JavaScript` · `Go` · `Python` · `PHP` · `Solidity` · `React.js` · `Next.js` · `React Native` · `Laravel`
 
-### Frontend & Mobile Architecture
+### Databases
 
-`React.js` · `Next.js` · `React Native` · `Laravel`
+`Neo4j` · `MongoDB` · `Redis` · `DynamoDB` · `Couchbase` · `Amazon S3` · `Amazon RDS` · `MySQL` · `PostgreSQL`
 
-### Data Layer
+### Cloud Infrastructure
 
-**Primary:** PostgreSQL · MongoDB · Neo4j · Redis  
-**Enterprise Scale:** DynamoDB · Couchbase · Amazon RDS · Amazon S3
+`AWS Cloud` · `CloudWatch` · `Cloud Networking` · `AWS Lambda` · `Amazon Lex` · `Amazon API Gateway` · `Serverless Architecture` · `Cloud Computing Security` · `TeamCity` · `Octopus` · `Heroku` · `Vercel` · `SNS` · `SQS` · `RabbitMQ` · `MQTT`
 
-### Cloud Platform & Services
+### Infrastructure & Systems
 
-`AWS` · `Lambda` · `ECS` · `EKS` · `CloudWatch` · `API Gateway` · `SNS` · `SQS` · `Cloud Networking` · `Cloud Computing Security`
+`Linux` · `Docker` · `REST` · `gRPC` · `GraphQL` · `Web Scraping` · `Varnish` · `HA Proxy` · `CI/CD Automation` · `Blockchain` · `Ethereum` · `Smart Contracts` · `Cryptography` · `Cryptocurrency`
 
-### Message Brokers & Queuing
+### Security & Networking
 
-`RabbitMQ` · `MQTT` · `SNS` · `SQS`
+`Aircrack-ng` · `Scapy` · `Wireshark` · `Network Security` · `Infrastructure Security`
 
-### DevOps & Deployment
-
-`Docker` · `Kubernetes` · `Linux` · `CI/CD Automation` · `TeamCity` · `Octopus` · `Heroku` · `Vercel`
-
-### Observability & Performance
-
-`Prometheus` · `Grafana` · `CloudWatch` · `Web Scraping` · `Wireshark` · `Performance Analysis`
-
-### Networking & Infrastructure
-
-`REST APIs` · `gRPC` · `GraphQL` · `Varnish` · `HA Proxy` · `Load Balancing`
-
-### Blockchain & Cryptography
-
-`Ethereum` · `Smart Contracts` · `Cryptography` · `Cryptocurrency` · `Blockchain` · `Distributed Ledger Technology`
-
-### Security & Network Tools
-
-`Aircrack-ng` · `Scapy` · `Network Security` · `Infrastructure Security`
-
-### Machine Learning & Advanced Analytics
+### Data, AI & Intelligence
 
 `Scikit-Learn` · `Data Analysis` · `Pattern Recognition`
 
-### Emerging Technologies
+### Emerging / Business Tools
 
-`Sanity` · `Google AppSheet` · `Serverless Architecture` · `Amazon Lex` · `No-Code Solutions`
+`Sanity` · `Google AppSheet` · `Amazon Lex` · `No-Code Solutions`
 
 ---
 
