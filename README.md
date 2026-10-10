@@ -2,7 +2,7 @@
 
 # Asif Imtiyaz Chowdhury
 
-**Founder & Senior Architect** · Backend Systems · Distributed Infrastructure · Technology Leadership
+**Senior Software Engineer** · Backend Systems · Distributed Systems · Technology Leadership
 
 </div>
 
