@@ -102,12 +102,12 @@ Smart contract development · Ethereum · Solidity · Cryptography · Cryptocurr
 
 Architected enterprise-scale real-time sports data infrastructure for [NTB](https://www.ntb.no), serving millions of concurrent requests.
 
-- Designed multilingual API architecture powering World Cup, World Championships, Grand Prix, and Olympic global broadcasts
+- Designed multilingual Sports Data Api featuring World Cup, World Championships, Grand Prix, and Olympics
 - Built distributed systems for orchestration, standings calculation, real-time results processing, and export pipelines
-- Engineered Neo4j abstraction layer reducing query complexity by ~40% while improving system maintainability
+- Engineered Neo4j abstraction layer reducing query complexity by ~60% while improving system maintainability
 - Established comprehensive testing pyramid (unit, API, integration, performance) with CI/CD automation
 - Designed caching strategy, rate limiting, and data consistency patterns for production systems
-- Led architectural decisions across 15+ projects with 25+ technologies
+- Led architectural decisions across systems design domain
 
 **Software Engineer** `2020 – 2022`
 
@@ -117,7 +117,7 @@ Built foundational backend services supporting sports data platform.
 - Implemented performance optimization and caching infrastructure
 - Contributed to architectural evolution through system design reviews
 
-**Live Infrastructure:** [SportsData](https://www.ntb.no/sport/sportsdata) · [NRK](https://resultater.nrk.no/vintersport/) · [TV2](https://www.tv2.no/)
+**Live Infrastructure:** [SportsData](https://www.ntb.no/sport/sportsdata) · [NRK](https://resultater.nrk.no/vintersport/)
 
 ---
 
