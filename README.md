@@ -2,7 +2,7 @@
 
 # Asif Imtiyaz Chowdhury
 
-**Senior Software Engineer** · Backend Engineering · Distributed Systems · Technology Leadership
+**Senior Software Engineer** · Backend Engineering · Distributed Systems 
 
 </div>
 
