@@ -100,7 +100,7 @@ Smart contract development · Ethereum · Solidity · Cryptography · Cryptocurr
 
 **Senior Software Engineer** `2022 – 2024`
 
-Architected enterprise-scale real-time sports data infrastructure for [NTB](https://www.ntb.no), serving millions of concurrent requests.
+Developed enterprise-scale real-time sports data Api infrastructure for [NTB](https://www.ntb.no), serving millions of concurrent requests.
 
 - Designed multilingual Sports Data Api featuring World Cup, World Championships, Grand Prix, and Olympics
 - Built distributed systems for orchestration, standings calculation, real-time results processing, and export pipelines
@@ -117,7 +117,7 @@ Built foundational backend services supporting sports data platform.
 - Implemented performance optimization and caching infrastructure
 - Contributed to architectural evolution through system design reviews
 
-**Live Infrastructure:** [SportsData](https://www.ntb.no/sport/sportsdata) · [NRK](https://resultater.nrk.no/vintersport/)
+**Live Sports Data:** [SportsData](https://www.ntb.no/sport/sportsdata) · [NRK](https://resultater.nrk.no/vintersport/)
 
 ---
 
@@ -138,10 +138,10 @@ Built backend infrastructure for mass-market consumer applications.
 
 **Software Engineer** `2018 – 2019`
 
-Led microservices development for e-commerce platform.
+Developed microservices for e-commerce platform.
 
-- Architected distributed services for order management, logistics, and payment processing
-- Built third-party integrations (payment gateways, logistics providers) for business workflows
+- Built Micro services for order management, logistics, and payment processing
+- Built third-party integrations (payment gateways, social media integration, logistics providers) for business workflows
 - Established patterns for service resilience and data integrity at scale
 
 ---
